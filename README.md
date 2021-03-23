@@ -1,7 +1,8 @@
 # Hi there, I'm Rasa
 ---------------------
 ## My Values
-*Thoughtful & Inclusive Development
-*Authentic Expression
-*Mindset of Learning & Curiosity
-*Teamwork & Communication
+
+- Thoughtful & Inclusive Development
+- Authentic Expression
+- Item Mindset of Learning & Curiosity
+- Item Teamwork & Communication
