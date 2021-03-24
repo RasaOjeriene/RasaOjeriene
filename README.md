@@ -1,5 +1,5 @@
 # Hi there, I'm Rasa
----------------------
+
 I'm Front End Developer, currently focused on React.js, UX/UI, and SEO.
 ---------------------
 ## My Values
