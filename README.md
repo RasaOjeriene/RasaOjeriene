@@ -7,8 +7,8 @@ I'm Front End Developer, currently focused on React.js, UX/UI, and SEO
 
 - Thoughtful & Inclusive Development
 - Authentic Expression
-- Item Mindset of Learning & Curiosity
-- Item Teamwork & Communication
+- Mindset of Learning & Curiosity
+- Teamwork & Communication
 
 
  🌱 I’m currently studying [Linkedin](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=Front-end%20Development&u=42751868)<br/>
