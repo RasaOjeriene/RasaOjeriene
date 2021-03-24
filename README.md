@@ -8,9 +8,9 @@
 - Item Teamwork & Communication
 
 
- 🌱 I’m currently studying [Linkedin](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=Front-end%20Development&u=42751868)
- 🙌 I am eager and ready to start my new career chapter in the IT world as a Front-End programmer.
- 💬 Ask me about...
+ 🌱 I’m currently studying [Linkedin](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=Front-end%20Development&u=42751868)<br/>
+ 🙌 I am eager and ready to start my new career chapter in the IT world as a Front-End programmer.<br/>
+ 💬 Ask me about...<br/>
  -[Portfolio](https://)<br/>
  -[Instagram](https://www.instagram.coom/rasa_oj)<br/>
  -[Linkedin](https://www.linkedin.com/in/rasa-ojeriene)<br/>
