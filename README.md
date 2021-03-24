@@ -3,7 +3,6 @@
 I'm Front End Developer, currently focused on React.js, UX/UI, and SEO
 
 
----------------------
 ## My Values
 
 - Thoughtful & Inclusive Development
