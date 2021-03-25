@@ -15,6 +15,6 @@ I'm Front End Developer, currently focused on React.js, UX/UI, and SEO
  🙌 I am eager and ready to start my new career chapter in the IT world as a Front-End programmer.<br/>
  💬 Connect with me <br/>
  - [Portfolio](https://rasaojeriene.github.io/)<br/>
- - [Instagram](https://www.instagram.coom/rasa_oj)<br/>
+ - [Instagram](https://www.instagram.com/rasa_oj/)<br/>
  - [Linkedin](https://www.linkedin.com/in/rasa-ojeriene)<br/>
 
