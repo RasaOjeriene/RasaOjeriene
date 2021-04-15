@@ -3,7 +3,9 @@
 I'm Front End Developer, currently focused on React.js, UX/UI, and SEO
 
 
-## My Values                                |       <img width="1532" alt="Screenshot 2021-04-15 at 10 07 05" src="https://user-images.githubusercontent.com/52051506/114828424-8d0c0400-9dd2-11eb-856d-273d4ee28412.png"> 
+<img width="1532" alt="Screenshot 2021-04-15 at 10 07 05" src="https://user-images.githubusercontent.com/52051506/114828424-8d0c0400-9dd2-11eb-856d-273d4ee28412.png"> 
+
+## My Values  
 
 - Thoughtful & Inclusive Development      
 - Authentic Expression
