@@ -1,6 +1,6 @@
 # Hi there, I'm Rasa
 
-I'm Front End Developer, currently focused on React.js, UX/UI, and SEO
+I'm Front End Developer, currently focused on React.js, Angular2, UX/UI, and SEO
 
 
 <img width="1532" alt="Screenshot 2021-04-15 at 10 07 05" src="https://user-images.githubusercontent.com/52051506/114828424-8d0c0400-9dd2-11eb-856d-273d4ee28412.png"> 
